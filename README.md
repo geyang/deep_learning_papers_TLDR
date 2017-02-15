@@ -1,8 +1,8 @@
 # Deep Learning Papers TLDR
 
-My collection of notes on deep learning papers.  To take a look at some
+My collection of notes on deep learning papers.  
 
-of my projects and notes on deep learning that's not directly related to literature research, go [here: @episodeyang/deep_learning_notes](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning)
+To take a look at some of my projects and notes on deep learning that's not directly related to literature research, go [here: @episodeyang/deep_learning_notes](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning)
 
 ## \<topic\>
 
