@@ -1,6 +1,6 @@
 # Deep Learning Papers TLDR
 
-A collection of notes on deep learning papers. [Nelson](https://github.com/nelsonleung)'s notes can be seen [here](https://github.com/nelsonleung/deep-learning-papers-reading-notes). To take a look at some
+My collection of notes on deep learning papers.  To take a look at some
 
 of my projects and notes on deep learning that's not directly related to literature research, go [here: @episodeyang/deep_learning_notes](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning)
 
@@ -15,5 +15,7 @@ of my projects and notes on deep learning that's not directly related to literat
 
 [some more explaination...](link to our note for this paper)
 
+## Other Repos
 
+[Nelson](https://github.com/nelsonleung)'s notes can be seen [here](https://github.com/nelsonleung/deep-learning-papers-reading-notes).
 
