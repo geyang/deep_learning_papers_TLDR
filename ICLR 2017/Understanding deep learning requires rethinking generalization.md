@@ -49,18 +49,18 @@ Existing learning theory does not offer an answer to this question.
 - Uniform stability [^Mukherjee_2002][^Bousquet_Elisseeff_2002][^Poggio_2004]
 - Regularization and early stopping being implicity regularization
 
-[^vapnik_1998]: VC dimension
-[^Bartlett_Mendelson_2003]: Radmacher complexity
-[^Mukherjee_2002]: uniform stability
-[^Bousquet_Elisseeff_2002]: uniform stability
-[^Poggio_2004]: uniform stability
+[^vapnik_1998]: VC dimension\
+[^Bartlett_Mendelson_2003]: Radmacher complexity\
+[^Mukherjee_2002]: uniform stability\
+[^Bousquet_Elisseeff_2002]: uniform stability\
+[^Poggio_2004]: uniform stability\
 
 #### Randomization tests
 
 used in this work comes from non-parametric statistics.
 
 | model | train label | train error | generalization |
-|-|-|-|-|
+|  ---  | ----        | --------    | ------         |
 | neural net | random | zero        | random guess   |
 |       | image classification | small | small error |
 
