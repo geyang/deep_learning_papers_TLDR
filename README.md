@@ -4,14 +4,6 @@ My collection of notes on deep learning papers.
 
 To take a look at some of my projects and notes on deep learning that's not directly related to literature research, go [here: @episodeyang/deep_learning_notes](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning)
 
-## Sources
-
-The source of this repo is mostly:
-- various online reading lists
-- Conferences
-- Courses: this is probably the most important source because they are structured
-- friends and colleague's recommendations
-
 ## Reading List (TODO)
 
 I will keep this todo list short. This is what I'm working on this week.
@@ -36,6 +28,13 @@ https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
     generalize well in practice. They also explains why deep learning requires 
     rethinking generalization.
 
+## Sources
+
+The source of this repo is mostly:
+- various online reading lists
+- Conferences
+- Courses: this is probably the most important source because they are structured
+- friends and colleague's recommendations
 
 ## Other Repos
 
