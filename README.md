@@ -8,6 +8,27 @@ To take a look at some of my projects and notes on deep learning that's not dire
 
 I will keep this todo list short. This is what I'm working on this week.
 
+### Bayesian Optimizations
+
+Closely related to statistical ideas of [¹]
+- **optimal design of experiments**, dating 
+back to Kirstine Smith in 1918. 
+- **response surface methods**, they date back to Box and Wilson in 1951. 
+- **Bayesian optimization**, studied first by Kushner in 1964 and then
+Mockus in 1978. 
+
+Methodologically, it touches on several important machine learning areas: 
+active learning, contextual bandits, Bayesian nonparametrics 
+- Started receiving serious attention in ML in 2007, 
+    - Brochu, de Freitas & Ghosh, NIPS 2007 [preference learning]  
+    - Krause, Singh & Guestrin, JMLR 2008 [optimal sensor placement]  
+    - Srinivas, Krause, Kakade & Seeger, ICML 2010 [regret bounds]  
+    - Brochu, Hoffman & de Freitas, UAI 2011 [portfolios] 
+- Interest exploded when it was realized that Bayesian optimization provides an
+excellent tool for finding good ML hyperparameters.
+
+[¹]: https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf
+
 ### ICLR 2017 Best Papers
 
 - [work in progress] "Making Neural Programming Architectures Generalize via Recursion"
