@@ -21,11 +21,11 @@ https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
 
 ### ICLR 2017 Best Papers
 
-- [**Notes on** "Understanding deep learning requires rethinking generalization"](ICLR%202017/Understanding%20deep%20learning%20requires%20rethinking%20generalization.md)
+- [**Notes on** "Understanding deep learning requires rethinking generalization"](ICLR%202017/Understanding%20deep%20learning%20requires%20rethinking%20generalization.md) **Google Brain**
     
-    Google Brain, Through experimentation, authors shows how traditional 
+    Through experimentation, authors shows how traditional 
     approaches to generalization failes to explain why large neural networks 
-    generalize well in practice. They also explains why deep learning requires 
+    generalize well in practice. They also explains why deep learning requires
     rethinking generalization. 
 
 ## Sources
