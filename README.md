@@ -38,6 +38,10 @@ https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg
 by Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar
 https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
 
+### Attention
+
+- [link](https://www.dropbox.com/s/h6qmhhq3kpfhbzd/L10%20attention.pdf?dl=0)
+
 
 ## Table of Contents 
 
