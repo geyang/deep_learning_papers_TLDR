@@ -17,6 +17,7 @@ https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg
 by Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar
 https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
 
+
 ## Table of Contents 
 
 ### ICLR 2017 Best Papers
@@ -28,6 +29,25 @@ https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
     generalize well in practice. They also explains why deep learning requires
     rethinking generalization. 
 
+### Neural Compression and Techniques
+
+- 2005, Han et al., **Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding** [[pdf]](https://arxiv.org/pdf/1510.00149.pdf)
+    
+    **gist**: A three stage pipeline:
+    1. zero out small weights (prunning) 9x-13x
+    2. Trained Quantization 27x-31x
+    3. Huffman Encoding 35x-49x 
+    
+    without suffering any loss in accuracy.
+
+- ICLR 2017, Han et al., **Dense-Sparse-Dense Training for Deep Neural Networks** [[pdf]](https://arxiv.org/pdf/1607.04381.pdf)
+    
+    **gist**: Sparse training and dense retrian improves network performance
+    1. train normally 
+    2. mask out small weights (bimodal distribution), then retrain
+    3. remove mask and set small weights to zero, then retrain.
+    
+    **profit**: 1~2% abs. imprv. across vision, speech and caption tasks, 4~13% rel. imprv.
 ## Sources
 
 The source of this repo is mostly:
