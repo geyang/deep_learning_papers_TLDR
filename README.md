@@ -34,7 +34,7 @@ The source of this repo is mostly:
 - various online reading lists
 - Conferences
 - Courses: this is probably the most important source because they are structured
-- friends and colleague's recommendations
+- friends and colleague's recommendations 
 
 ## Other Repos
 
