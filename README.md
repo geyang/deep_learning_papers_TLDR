@@ -1,4 +1,4 @@
-# Deep Learning Papers TLDR
+# Deep Learning Papers TLDR [![](https://img.shields.io/badge/link_on-GitHub-brightgreen.svg?style=flat-square)](https://github.com/episodeyang/deep_learning_papers_TLDR)
 
 My collection of notes on deep learning papers.
 
@@ -36,7 +36,7 @@ https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
     **gist**: A three stage pipeline:
     1. zero out small weights (prunning) 9x-13x
     2. Trained Quantization 27x-31x
-    3. Huffman Encoding 35x-49x 
+    3. Huffman Encoding 35x-49x
     
     without suffering any loss in accuracy.
 
