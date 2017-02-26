@@ -31,9 +31,6 @@ excellent tool for finding good ML hyperparameters.
 
 ### ICLR 2017 Best Papers
 
-- [work in progress] "Making Neural Programming Architectures Generalize via Recursion"
-by Jonathon Cai, Richard Shin, Dawn Song
-https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg
 - "Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data" 
 by Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar
 https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
@@ -46,6 +43,20 @@ https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
 ## Table of Contents 
 
 ### ICLR 2017 Best Papers
+
+- [**Notes on** "Making Neural Programming Architectures Generalize via Recursion"
+by Jonathon Cai, Richard Shin, Dawn Song"](ICLR%202017/Making%20Neural%20Programming%20Architectures%20Generalize%20Via%20Recursion.md) **Berkeley**
+    
+    Authors propose to augment neural networks by a key abstraction: recursion. 
+    Work applied this idea to Program-Interpreter from [Reed & de Freitas] 2006, 
+    and demonstrates superior generalizability, tractability with proven 
+    garantee.
+    
+    Recursion greatly reduces the domain of each neural program component, also
+    greatly reduces the amount of training data required, and make it easier to
+    interpret and validate.
+
+    [Reed & de Freitas]: https://arxiv.org/abs/1511.06279
 
 - [**Notes on** "Understanding deep learning requires rethinking generalization"](ICLR%202017/Understanding%20deep%20learning%20requires%20rethinking%20generalization.md) **Google Brain**
     
