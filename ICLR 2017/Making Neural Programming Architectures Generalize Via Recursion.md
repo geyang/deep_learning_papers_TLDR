@@ -2,13 +2,17 @@
 
 ## TLDR;
 
-Make Neural Program-Interpreter recursive, it will genralize perfectly and 
-indefinitely, in a provable way.
+Recursion allow Neural Programs to devide and conquer a problem, and generalize
+indefinitely. By devide and conquer, each neural program component has a much 
+reduced domain, making interpretations easier and training faster.
 
 key words | neural program, recursion, provable garantee
 ---- |:---
 openreview | https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg
 pdf | https://openreview.net/pdf?id=BkbY4psgg
+
+- [tail recursion](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
+    is equivalent to a loop.
 
 ## Summary 
 
