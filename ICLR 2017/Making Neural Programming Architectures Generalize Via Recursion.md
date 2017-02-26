@@ -85,11 +85,11 @@ result and offers the proofs.
 #### Problems
 
 
-- **poor genralization performance**\
+- **poor genralization performance**  
     Current system demonstrate poor generalization beyond certain level of 
     complexity.
 
-- **no provable garantee**\
+- **no provable garantee**  
     memory operation in NPI is complex and untractable, can not prove the general 
     behavior of network beyond what's in the sample.
 
