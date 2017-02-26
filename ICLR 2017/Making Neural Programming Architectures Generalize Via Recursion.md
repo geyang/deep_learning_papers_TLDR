@@ -14,6 +14,14 @@ pdf | https://openreview.net/pdf?id=BkbY4psgg
 - [tail recursion](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
     is equivalent to a loop.
 
+## Future Directions
+
+- offer more tasks beyond the four covered here
+- **decrease supervision**, perhaps partial or non-recursive traces
+- **new Neural Programming Architecture** that integrates a notion of recursion
+    within the model.
+
+
 ## Summary 
 
 This paper builds on top of [Reed & de Freitas]' 2016 work on Neural
@@ -71,14 +79,6 @@ bubble sort.)
 Section 3.2 and 3.3 details the recursive formulations for these problems and 
 the general approach to provable generalization. Seciton 4 covers the experiment
 result and offers the proofs.
-
-#### Future Directions
-
-- offer more tasks beyond the four covered here
-- **decrease supervision**, perhaps partial or non-recursive traces
-- **new Neural Programming Architecture** that integrates a notion of recursion
-    within the model.
-
 
 ## Background: Generalization Task Failures in Prior Work
 
