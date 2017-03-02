@@ -128,10 +128,11 @@ CoRR, abs/1511.08228, 2015. URL http://arxiv.org/abs/1511.08228.
 URL http://ercim-news.ercim.eu/en107/special/neural-random-access-machines.
 
 6. Arvind Neelakantan, Quoc V. Le, and Ilya Sutskever. 
-**Neural programmer**: Inducing latent programs with gradient descent, 2015.
+**Neural programmer: Inducing latent programs with gradient descent**, 2015.
+URL https://arxiv.org/abs/1511.04834
 
 7. Scott Reed and Nando de Freitas. **Neural programmer-interpreters**. 
-ICLR, 2016.
+ICLR, 2016. URL https://arxiv.org/abs/1511.06279
 
 8. Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly. 
 **Pointer networks**. URL http://papers.nips.cc/paper/5866-pointer-networks.
