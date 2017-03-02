@@ -12,9 +12,10 @@ I will keep this todo list short. This is what I'm working on this week.
 
 - [**Boltzmann, Entropy, and Kullback-Leibler Divergence**](http://www.episodeyang.com/posts/2017-02-27-boltzmann-entropy-kl-divergence)
     
-    In this blog post, I took a statistical mechanics' approach to
-    derive Shannon's entropy. Then I went on to derive various information theoretic
-    enties (Work in progress)
+    I was inspired to understand the physics foundation of Restricted Boltzmann 
+    Machine. In the first installment of a series of posts, I take a physicist's
+    approach to derive Shannon's entropy from statistical mechanics. Then I went
+    on to derive various information theoretic enties. (Work in progress)
 
 ### Bayesian Optimizations
 
