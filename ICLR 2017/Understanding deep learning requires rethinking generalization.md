@@ -21,7 +21,9 @@ small generalization error might not be something intrisit to the model.
 
 ## Notes
 
-in the regime where the network's learning capability is much greater than the 
+Machine learning is about generalization garantee. 
+
+In the regime where the network's learning capability is much greater than the 
 dataset, the network can virtually learn any random function. Therefore 
 conventional theories like VC dimensions does not distinguish between the two 
 cases:
@@ -81,6 +83,9 @@ Explicity forms of regularization (weight decay, dropout, data augmentation) do
 not explain this. 
 
 > Explicit regularization may improve generalization performance, but is neither necessary nor by itself sufficient for controlling generalization error.
+
+> Dave: L2 regularization prevents the networks from learning the random labels during
+training. need to take a closer look
 
 #### Implicit Regularization via SGD
 
