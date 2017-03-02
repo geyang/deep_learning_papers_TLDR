@@ -8,6 +8,14 @@ To take a look at some of my projects and notes on deep learning that's not dire
 
 I will keep this todo list short. This is what I'm working on this week.
 
+### Information Theoretic Notes (Work in progress)
+
+- [**Boltzmann, Entropy, and Kullback-Leibler Divergence**](http://www.episodeyang.com/posts/2017-02-27-boltzmann-entropy-kl-divergence)
+    
+    In this blog post, I t a statistical mechanics' approach to
+    derive Shannon's entropy. Then I went on to derive various information theoretic
+    enties (Work in progress)
+
 ### Bayesian Optimizations
 
 Closely related to statistical ideas of [¹]
