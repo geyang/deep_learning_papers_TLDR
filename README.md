@@ -4,11 +4,17 @@ My collection of notes on deep learning papers.
 
 To take a look at some of my projects and notes on deep learning that's not directly related to literature research, go [here: @episodeyang/deep_learning_notes](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning)
 
-## Reading List (TODO)
+This repository is motivated by Andrew Ng's [*The Saturday Story*](https://www.youtube.com/watch?v=F1ka6a13S9I&feature=youtu.be&t=1h15m57s), with the hope that eventually I will become a good deep learning researcher.
+
+## Current Week
 
 I will keep this todo list short. This is what I'm working on this week.
 
-### Information Theoretic Notes (Work in progress)
+### Neural-Programmer Interpreter implementation (pyTorch)
+
+see `deep_learning_notes` repo for the code. 
+
+### Information Theory Notes (WIP)
 
 - [**Boltzmann, Entropy, and Kullback-Leibler Divergence**](http://www.episodeyang.com/posts/2017-02-27-boltzmann-entropy-kl-divergence)
     

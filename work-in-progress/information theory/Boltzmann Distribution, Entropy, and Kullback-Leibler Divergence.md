@@ -192,3 +192,4 @@ H = - k_\beta \mathrm{Tr} (\rho \ln \rho).
 
 
 [^1]: http://www.ece.tufts.edu/~maivu/ES250/1-entropy.pdf
+[^2]: http://micro.stanford.edu/~caiwei/me334
