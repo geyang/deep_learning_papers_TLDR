@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 ## Overall Strategy
 
 Two types of positions I'm looking for 

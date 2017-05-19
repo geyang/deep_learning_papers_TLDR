@@ -89,7 +89,7 @@ user access rights, but all data should be inside a unified data warehouse.
 
 70%/30% split
 
-## Rethink Bias and Variance
+## Deep Learning: Rethink Bias and Variance
 
 want to launch new product: speach-enabled rear-view mirror. 
 
@@ -126,8 +126,7 @@ quickly superceed human performance, then improvement gets much harder.
 
 Some theoretical limit: noisy, blurry, impossible to figure out
 
-**Optimal Error Rate**/**Bayse Rate**
-: Optimal algorithm can not do better than this.
+**Optimal Error Rate**/**Bayes Rate**: Optimal algorithm can not do better than this.
 
 - Humans are pretty good at voice-recorgnition, and image-recognition.
 - While worse than humans, have good ways to make progress.
